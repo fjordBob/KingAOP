@@ -1,4 +1,4 @@
-# KingAOP for dotnet dore and VS2019
+# KingAOP for dotnet dore and VS2022
 
 This fork for KingAOP is now supporting dotnet core (6.0 LTS) and VS2022.
 
